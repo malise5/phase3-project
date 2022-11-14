@@ -41,5 +41,9 @@ git clone <https://github.com/andisiambuku/Tech-Talk-Blog.git>
 @andisiambuku
 @Philipngungi037
 
+### back-end
+@HalkanoMalise
+@HamsaAdan
+
 ## Copyright and License Information
 This project is free to use and does not contains any license.
